@@ -1,1 +1,1 @@
-Callek and Mihai testing
+Moved here: https://github.com/mozilla-releng/scriptworker-scripts/tree/master/treescript
